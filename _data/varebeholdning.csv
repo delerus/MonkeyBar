@@ -1,6 +1,7 @@
-kategori, type, merke, pris
-sprit, gin, harahorn, 450
-sprit, vodka, korskenkorva, 200
-blandevann, tonic, schweepes, 30
-blandevann, energidrikk, redbull, 30
+type, merke, pris, kategori
+gin, harahorn, 450, sprit
+gin, silvertail, 500, sprit
+vodka, korskenkorva, 200, sprit
+tonic water, schweepes, 30, blandevann
+energidrikk, redbull, 30, blandevann
 
